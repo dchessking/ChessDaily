@@ -1,0 +1,32 @@
+/* # is used to utilise an ID eg. #<id>*/
+/* . is used to utilise a class eg. .<class> */
+
+
+
+#bold {
+  color: red; 
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#italic {
+    font-style: italic;
+}
+
+#italic {
+    color: blue;
+}
+
+#underline {
+    color: darkmagenta;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+#Intro {
+    color: darkslateblue;
+}
